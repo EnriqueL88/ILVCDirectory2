@@ -5,7 +5,7 @@ class Vendors extends Component {
 	render() {
 		return (
 			<div>
-				<Table class='highlight, responsive-table'>
+				<Table class='highlight'>
 					<thead>
 						<tr>
 							<th data-field="id">Vendor ID</th>
