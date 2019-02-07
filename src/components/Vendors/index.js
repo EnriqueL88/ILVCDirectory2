@@ -132,7 +132,7 @@ class Vendors extends Component {
 								<br/>
 								907 - 283 - 4230 ext 3
 								<br/>
-								plovett@glmenergyllc.com
+								<a href="mailto:plovett@glmenergyllc.com">plovett@glmenergyllc.com</a>
 							</td>
 							<td className='alignIcons'>
 								<Modal
